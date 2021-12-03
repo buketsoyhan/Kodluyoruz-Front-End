@@ -1,0 +1,38 @@
+.center {
+  text-align: center;
+}
+
+.navbar {
+  background-color: lightgray;
+  margin: 0.5rem 2rem;
+}
+
+.navbar input {
+  width: 400px;
+}
+.boxes {
+  display: flex;
+  margin: 0.5rem 2rem;
+}
+
+.box1 {
+  background-color: rgb(63, 202, 184);
+  width: 35%;
+  height: 80px;
+  margin-right: 0.3rem;
+}
+.box1 div {
+  padding-top: 1rem;
+}
+.box2 {
+  background-color: rgb(81, 184, 149);
+  width: 20%;
+  margin-right: 0.3rem;
+}
+.box3 {
+  background-color: rgb(22, 138, 99);
+  width: 45%;
+}
+.box3 p {
+  margin: 0;
+}
