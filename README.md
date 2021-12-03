@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repodur, içerisin
 # Installation 
 Öncelikle projeyi clonelayın. 
 
-## git clone https://github.com/buketsoyhan/Kodluyoruz-Front-End.git
+git clone https://github.com/buketsoyhan/Kodluyoruz-Front-End.git
 
 # Usage 
 Projeyi cloneladıktan sonra ilgili dizine giderek VS Code programında açınız.  
