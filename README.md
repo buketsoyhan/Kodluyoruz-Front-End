@@ -8,9 +8,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repodur, içerisin
 
 # Usage 
 Projeyi cloneladıktan sonra ilgili dizine giderek VS Code programında açınız. 
-
-## cd Kodluyoruz-Front-End
-## code .
+cd Kodluyoruz-Front-End
+code .
 
 # Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştimek istediğinizi tartışmak için bir konu açınız.
