@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+
+article ul{
+    list-style-position: inside;
+}
+
+article .bluebtn{
+    width: 10%;
+    margin-left: 47%;
+}
+
+article h2{
+    margin-top: 2rem;
+}
